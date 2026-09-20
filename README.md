@@ -1,5 +1,5 @@
-# Peace for Palestine
-## Two Nations, One Future
+# Two Nations, One Future
+## Peace for Palestine
 
 This repository contains the documents and software for the **Two Nations, One Future** Peace for Palestine movement. It is It is a framework for finding peace in the Mideast and is the start of a 
 dialog between the world community, the Palestinian regions, and Israel.
